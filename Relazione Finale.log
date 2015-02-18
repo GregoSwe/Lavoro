@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  18 FEB 2015 15:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  18 FEB 2015 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -261,7 +261,7 @@ LaTeX Info: Redefining \nameref on input line 32.
 Missing character: There is no Ã in font cmbx12!
 Missing character: There is no   in font cmbx12!
 
-<img/Logo_Unipd.png, id=44, 943.525pt x 949.5475pt>
+<img/Logo_Unipd.png, id=60, 943.525pt x 949.5475pt>
 File: img/Logo_Unipd.png Graphic file (type png)
  <use img/Logo_Unipd.png>
 Package pdftex.def Info: img/Logo_Unipd.png used on input line 44.
@@ -311,22 +311,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
+] [2]
+Chapter 2.
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no   in font cmr10!
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+[3
+
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
  (./Relazione Finale.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `"Relazione Finale".out' has not changed.
-(rerunfilecheck)             Checksum: 30BE4F532E6D4569C459A82F34A514AC;701.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
+(rerunfilecheck)             Checksum: D749388D5D29E1EA00F340BAC4F4007D;961.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 5309 strings out of 494985
- 78541 string characters out of 6180355
- 156340 words of memory out of 5000000
- 8473 multiletter control sequences out of 15000+600000
+ 5318 strings out of 494985
+ 78659 string characters out of 6180355
+ 157340 words of memory out of 5000000
+ 8477 multiletter control sequences out of 15000+600000
  11363 words of font info for 39 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  29i,11n,43p,273b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -339,10 +346,10 @@ t/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb>
-Output written on "Relazione Finale.pdf" (8 pages, 236536 bytes).
+Output written on "Relazione Finale.pdf" (9 pages, 241210 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
