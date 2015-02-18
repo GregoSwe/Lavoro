@@ -1,5 +1,5 @@
 \documentclass[11pt]{book}              % Book class in 11 points
-%\usepackage[utf8x]{inputenc} 
+\usepackage[utf8x]{inputenc} 
 %\usepackage[italian]{babel} 
 \parindent0pt  \parskip10pt             % make block paragraphs
 \raggedright                            % do not right justify
@@ -25,9 +25,15 @@
     urlcolor=black
 }
 \cfoot{}
-\rfoot{\thepage\ di 3}
+\rfoot{\thepage\ di 4}
 \renewcommand{\footrulewidth}{0.4pt}
 \newcommand{\numref}[1]{\textsl{\nameref{#1} (\ref{#1})}}
+
+\renewcommand{\chaptermark}[1]{%
+\markboth{\thechapter.\ #1}{}}
+
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
+
 
 \begin{document}
 \frontmatter
@@ -67,7 +73,7 @@ Marco Gregorini: \textit{Sviluppo di dispositivo embedded per la gestione di un 
 \newpage
 
 \chapter{Sommario}
-[:] descrizione generale del documento e dei suoi capitoli
+[:] descrizione generale del documento e dei suoi capitoli.
                           
 
 \newpage
@@ -90,55 +96,80 @@ Marco Gregorini: \textit{Sviluppo di dispositivo embedded per la gestione di un 
 
 \section{Cosa offre l'Azienda: Prodotti e Servizi}
 
-[:] descrizione della sezione
+[:] descrizione della sezione.
 
 \subsection{I Prodotti di ARPAV}
 
-[:] lista generale dei prodotti generati da ARPAV con breve descrizione
+[:] lista generale dei prodotti generati da ARPAV con breve descrizione.
 
 \subsection{I Servizi di ARPAV}
 
-[:] lista dei servizi offerti da ARPAV con breve descrizione
+[:] lista dei servizi offerti da ARPAV con breve descrizione.
 
 \section{Strategie Aziendali}
 
-[:] Descrizione della sezione con breve introduzione alle sottosezioni
+[:] Descrizione della sezione con breve introduzione alle sottosezioni.
 
 \subsection{Processi di Sviluppo}
 
-[:] Descrizione dei processi attuati all'interno dell'azienda per lo sviluppo dei prodotti e la fruizione dei servizi e i metodi utilizzati per i processi di sviluppo
+[:] Descrizione dei processi attuati all'interno dell'azienda per lo sviluppo dei prodotti e la fruizione dei servizi e i metodi utilizzati per i processi di sviluppo.
 
-\subsection{Strumenti di supporto ai Processi di Sviluppo}
+\subsection{Strumenti di Supporto ai Processi di Sviluppo}
 
 [:] Elenco e descrizione degli strumenti utilizzati dall'azienda a supporto dei processi.
 
-\subsection{Tecnologie utilizzate}
+\subsection{Tecnologie Utilizzate}
 
-[:] Elenco e descrizione delle tecnologie utilizzate dall'azienda in relazione all'ambito in cui vengono applicate
+[:] Elenco e descrizione delle tecnologie utilizzate dall'azienda in relazione all'ambito in cui vengono applicate.
 
 \section{Target Clienti}
 
 [:] Descrizione dei clienti diretti dell'azienda e la metodologia di interazione; breve descrizione dei clienti secondari che usufruiscono dei prodotti erogati dall'azienda.
 
-\subsection{Clienti diretti}
+\subsection{Clienti Diretti}
 
 [:] in questa sottosezione verranno descritti in particolare i clienti diretti dei servizi e prodotti dell'azienda e le metodologie di relazione con essi
 
-\subsection{Clienti secondari}
+\subsection{Clienti Secondari}
 
 [:] in questa sottosezione verranno descritti invece i clienti secondari, ma spesso finali dei prodotti e servizi forniti dall'azienda.
 
 \newpage
-
-\chapter{Lo stage, visto dall'azienda}
+\chapter{Lo Stage Visto dall'Azienda}
 \thispagestyle{fancy} 
-[:] introduzione del capitolo con la descrizione dei motivi per cui l'azienda ricerca stagisti per affidare loro dei progetti da sviluppare
+[:] introduzione del capitolo con la descrizione dei motivi per cui l'azienda ricerca stagisti per affidare loro dei progetti da sviluppare.
 
-\section{Il Progetto}
+\section{Presentazione del Progetto}
 
-[:] Sezione in cui viene descritto il progetto vero e proprio, in cosa consiste e in che realtà potrà essere inserito. 
+[:] Sezione in cui viene descritto il progetto vero e proprio, in cosa consiste e in quali realtà potrà essere inserito.
+
+\subsection{Obbiettivo dello Stage}
+
+[:] Sottosezione in cui si descrivono gli obbiettivi che sono stati preposti all'inizio dello stage nel momento in cui ho preso visione dell'offerta fatta dall'azienda.
+La sezione inizia con una breve introduzione del piano di lavoro e la descrizione del significato di obbiettivo.
+
+\subsubsection{Obbiettivi Minimi Richiesti}
+
+[:] Vengono elencati e descritti gli obbiettivi minimi richiesti all'inizio dello stage.
+
+\subsubsection{Obbiettivi Massimi Raggiungibili}
+
+[:] Vengono elencati e descritti gli obbiettivi che l'azienda desidera raggiungere, ma che non sono vincolanti alla conclusione dello stage.
+
+\section{Vincoli di Progetto}
+
+[:] La sezione inizia descrivendo le tipologie di vincoli che sono stati imposti nello stage
+
+\subsection{Vincoli di Dominio}
+
+[:] Vengono descritti i vincoli che dovranno essere soddisfatti dal progetto in termini di funzionalità, affidabilità e manutenibilità. 
+
+\subsection{Vincoli Tecnologici}
+
+[:] Vengono descritti i vincoli riguardanti gli strumenti di lavoro, come framework e  e tecnologie obbligatori che dovranno essere utilizzati durante l'attività stagistica.
 
 
+\subsection{•}
 
 
 
