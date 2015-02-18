@@ -5,17 +5,34 @@
 \contentsline {subsection}{\numberline {1.1.2}I Servizi di ARPAV}{1}{subsection.1.1.2}
 \contentsline {section}{\numberline {1.2}Strategie Aziendali}{1}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Processi di Sviluppo}{2}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Strumenti di Supporto ai Processi di Sviluppo}{2}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Tecnologie Utilizzate}{2}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.2}Metodologie di Supporto ai Processi}{2}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Strumenti di Supporto ai Processi}{2}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Tecnologie Utilizzate}{2}{subsection.1.2.4}
 \contentsline {section}{\numberline {1.3}Target Clienti}{2}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Clienti Diretti}{2}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Clienti Secondari}{2}{subsection.1.3.2}
-\contentsline {chapter}{\numberline {2}Lo Stage Visto dall'Azienda}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Presentazione del Progetto}{3}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Obbiettivo dello Stage}{3}{subsection.2.1.1}
-\contentsline {subsubsection}{Obbiettivi Minimi Richiesti}{3}{section*.3}
-\contentsline {subsubsection}{Obbiettivi Massimi Raggiungibili}{4}{section*.4}
-\contentsline {section}{\numberline {2.2}Vincoli di Progetto}{4}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Vincoli di Dominio}{4}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Vincoli Tecnologici}{4}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}\IeC {\textbullet }}{4}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {1.3.2}Clienti Secondari}{3}{subsection.1.3.2}
+\contentsline {chapter}{\numberline {2}Lo Stage per Azienda}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Presentazione del Progetto}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Obbiettivo dello Stage}{5}{subsection.2.1.1}
+\contentsline {subsubsection}{Obbiettivi Minimi Richiesti}{5}{section*.3}
+\contentsline {subsubsection}{Obbiettivi Massimi Raggiungibili}{6}{section*.4}
+\contentsline {subsection}{\numberline {2.1.2}Finalit\IeC {\`a} del Progetto}{6}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Vincoli di Progetto}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Vincoli di Dominio}{6}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Vincoli Tecnologici}{6}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Vincoli Metodologici}{6}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Vincoli Temporali}{7}{subsection.2.2.4}
+\contentsline {chapter}{\numberline {3}L'Attivit\IeC {\`a} di Stage}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Pianificazione del Lavoro}{9}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Problematiche Riscontrate}{9}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Preparazione al Lavoro di Stage}{9}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Studio del Dominio}{10}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Studio delle Tecnologie}{10}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}L'Utilizzo dei Prototipi}{10}{section.3.3}
+\contentsline {section}{\numberline {3.4}Attivit\IeC {\`a} di Analisi}{10}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Classificazione dei Requisiti}{10}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Individuazione dei Requisiti}{10}{subsection.3.4.2}
+\contentsline {subsubsection}{Strumenti Utilizzati}{11}{section*.5}
+\contentsline {subsection}{\numberline {3.4.3}Casi d'Uso}{11}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Dettagli Meritevoli}{11}{subsection.3.4.4}
+\contentsline {section}{\numberline {3.5}Progettazione Architetturale}{11}{section.3.5}
