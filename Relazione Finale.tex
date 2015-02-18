@@ -1,0 +1,125 @@
+\documentclass[11pt]{book}              % Book class in 11 points
+%\usepackage[utf8x]{inputenc} 
+%\usepackage[italian]{babel} 
+\parindent0pt  \parskip10pt             % make block paragraphs
+\raggedright                            % do not right justify
+
+
+%\usepackage{fancyhdr}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\evensidemargin=1cm 
+\oddsidemargin=1cm
+
+
+%\usepackage[latin1]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+\cfoot{}
+\rfoot{\thepage\ di 2}
+\renewcommand{\footrulewidth}{0.4pt}
+\newcommand{\numref}[1]{\textsl{\nameref{#1} (\ref{#1})}}
+
+\begin{document}
+\frontmatter
+
+\begin{titlepage}
+\centering  
+\textbf{\huge{Università degli Studi di Padova}} \\
+\vspace{0.3cm}
+\huge{Dipartimento di Matematica} \\
+\vspace{0.3cm}
+\LARGE{Corso di Laurea in Informatica} \\
+
+\vspace{1cm}
+\includegraphics[scale=0.2]{img/Logo_Unipd.png}  \\
+\vspace{1cm}
+\hspace{0.5cm}\textbf{\LARGE{ Sviluppo di dispositivo embedded per la gestione di un pluviometro con Arduino}}\\
+\vspace{0.5cm}
+\textit{Relazione Finale laurea triennale}\\
+\vspace{0.5cm}
+
+\begin{flushleft}
+\textit{Relatore} \hfill \textit{Laureando}\\
+Prof. Tullio Vardanega \hfill Marco Gregorini
+
+\end{flushleft}
+\line(1, 0){360}\\
+\textsc{\small{Anno accademico 2015 - 2016}}
+\end{titlepage}
+
+
+\newpage
+\thispagestyle{empty}
+\vspace*{\fill}
+
+Marco Gregorini: \textit{Sviluppo di dispositivo embedded per la gestione di un pluviometro con Arduino,} Relazione Finale laurea triennale, \copyright Feb 2015
+
+\newpage
+
+\chapter{Sommario}
+[:] descrizione generale del documento e dei suoi capitoli
+                          
+
+\newpage
+\thispagestyle{empty}
+
+\tableofcontents    
+
+\newpage
+\thispagestyle{empty}
+
+                  
+\mainmatter       
+  
+
+\chapter{Profilo dell'Azienda}
+\flushleft
+\thispagestyle{fancy} 
+
+[:] Breve descrizione dell'azienda in generale, quando è stata fondata, quali sono le sue sedi operative e descrizione leggermente più dettagliata riguardo la sede dello stage.
+
+\section{Cosa offre l'Azienda: Prodotti e Servizi}
+
+[:] descrizione della sezione
+
+\subsection{I Prodotti di ARPAV}
+
+[:] lista generale dei prodotti generati da ARPAV con breve descrizione
+
+\subsection{I Servizi di ARPAV}
+
+[:] lista dei servizi offerti da ARPAV con breve descrizione
+
+\section{Strategie Aziendali}
+
+[:] Descrizione della sezione con breve introduzione alle sottosezioni
+
+\subsection{Processi di Sviluppo}
+
+[:] Descrizione dei processi attuati all'interno dell'azienda per lo sviluppo dei prodotti e la fruizione dei servizi e i metodi utilizzati per i processi di sviluppo
+
+\subsection{Strumenti di supporto ai Processi di Sviluppo}
+
+[:] Elenco e descrizione degli strumenti utilizzati dall'azienda a supporto dei processi.
+
+\subsection{Tecnologie utilizzate}
+
+[:] Elenco e descrizione delle tecnologie utilizzate dall'azienda in relazione all'ambito in cui vengono applicate
+
+\section{Clientela Target}
+
+[:] Descrizione dei clienti diretti dell'azienda e la metodologia di interazione; breve descrizione dei clienti secondari che usufruiscono dei prodotti erogati dall'azienda.
+
+
+
+\end{document}
