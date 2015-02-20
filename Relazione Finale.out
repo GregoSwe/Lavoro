@@ -31,5 +31,28 @@
 \BOOKMARK [2][-]{subsection.3.4.1}{Classificazione dei Requisiti}{section.3.4}% 31
 \BOOKMARK [2][-]{subsection.3.4.2}{Individuazione dei Requisiti}{section.3.4}% 32
 \BOOKMARK [2][-]{subsection.3.4.3}{Casi d'Uso}{section.3.4}% 33
-\BOOKMARK [2][-]{subsection.3.4.4}{Dettagli Meritevoli}{section.3.4}% 34
+\BOOKMARK [2][-]{subsection.3.4.4}{Dettagli Degni di Nota}{section.3.4}% 34
 \BOOKMARK [1][-]{section.3.5}{Progettazione Architetturale}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.5.1}{Introduzione Architettura Hardware}{section.3.5}% 36
+\BOOKMARK [2][-]{subsection.3.5.2}{Introduzione Architettura Software}{section.3.5}% 37
+\BOOKMARK [2][-]{subsection.3.5.3}{Architettura Libreria Scheda Master}{section.3.5}% 38
+\BOOKMARK [2][-]{subsection.3.5.4}{Architettura Scheda Slave}{section.3.5}% 39
+\BOOKMARK [2][-]{subsection.3.5.5}{Design Pattern Utilizzati}{section.3.5}% 40
+\BOOKMARK [2][-]{subsection.3.5.6}{Dettagli Degni di Nota}{section.3.5}% 41
+\BOOKMARK [1][-]{section.3.6}{Progettazione di Dettaglio}{chapter.3}% 42
+\BOOKMARK [2][-]{subsection.3.6.1}{Dettagli Degni di Nota}{section.3.6}% 43
+\BOOKMARK [1][-]{section.3.7}{Verifica e Validazione}{chapter.3}% 44
+\BOOKMARK [2][-]{subsection.3.7.1}{Analisi Statica}{section.3.7}% 45
+\BOOKMARK [2][-]{subsection.3.7.2}{Test sul Sistema Slave}{section.3.7}% 46
+\BOOKMARK [2][-]{subsection.3.7.3}{Test sul Sistema Master Slave}{section.3.7}% 47
+\BOOKMARK [2][-]{subsection.3.7.4}{Test di Sistema}{section.3.7}% 48
+\BOOKMARK [2][-]{subsection.3.7.5}{Dettagli Degni di Nota}{section.3.7}% 49
+\BOOKMARK [0][-]{chapter.4}{Valutazioni Finali}{}% 50
+\BOOKMARK [1][-]{section.4.1}{Raggiungimento degli Obbiettivi}{chapter.4}% 51
+\BOOKMARK [2][-]{subsection.4.1.1}{Rendiconto degli Obbiettivi}{section.4.1}% 52
+\BOOKMARK [2][-]{subsection.4.1.2}{Consuntivo Orario Finale}{section.4.1}% 53
+\BOOKMARK [1][-]{section.4.2}{Difficolt\340 Riscontrate}{chapter.4}% 54
+\BOOKMARK [1][-]{section.4.3}{Bilancio Formativo}{chapter.4}% 55
+\BOOKMARK [2][-]{subsection.4.3.1}{Preparazione Iniziale}{section.4.3}% 56
+\BOOKMARK [2][-]{subsection.4.3.2}{Esperienze Acquisite}{section.4.3}% 57
+\BOOKMARK [2][-]{subsection.4.3.3}{Considerazioni Finali}{section.4.3}% 58
