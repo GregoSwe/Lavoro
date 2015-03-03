@@ -1,60 +1,56 @@
-\BOOKMARK [0][-]{chapter*.1}{Sommario}{}% 1
-\BOOKMARK [1][-]{section.0.1}{Premessa}{chapter*.1}% 2
-\BOOKMARK [1][-]{section.0.2}{Contenuti}{chapter*.1}% 3
-\BOOKMARK [2][-]{subsection.0.2.1}{Convenzioni Topografiche}{section.0.2}% 4
-\BOOKMARK [0][-]{chapter.1}{Profilo dell'Agenzia}{}% 5
-\BOOKMARK [1][-]{section.1.1}{Cosa offre: Prodotti e Servizi}{chapter.1}% 6
-\BOOKMARK [2][-]{subsection.1.1.1}{I Prodotti di ARPAV}{section.1.1}% 7
-\BOOKMARK [2][-]{subsection.1.1.2}{I Servizi di ARPAV}{section.1.1}% 8
-\BOOKMARK [1][-]{section.1.2}{Organizzazione Interna}{chapter.1}% 9
-\BOOKMARK [2][-]{subsection.1.2.1}{Processi di Sviluppo}{section.1.2}% 10
-\BOOKMARK [2][-]{subsection.1.2.2}{Metodologie di Supporto ai Processi}{section.1.2}% 11
-\BOOKMARK [2][-]{subsection.1.2.3}{Strumenti di Supporto ai Processi}{section.1.2}% 12
-\BOOKMARK [2][-]{subsection.1.2.4}{Tecnologie Utilizzate}{section.1.2}% 13
-\BOOKMARK [1][-]{section.1.3}{Relazioni Esterne}{chapter.1}% 14
-\BOOKMARK [2][-]{subsection.1.3.1}{Clienti Diretti}{section.1.3}% 15
-\BOOKMARK [2][-]{subsection.1.3.2}{Clienti Secondari}{section.1.3}% 16
-\BOOKMARK [2][-]{subsection.1.3.3}{Orientamento all'Innovazione}{section.1.3}% 17
-\BOOKMARK [0][-]{chapter.2}{Lo Stage per ARPAV}{}% 18
-\BOOKMARK [1][-]{section.2.1}{L'Esigenza di uno Stage}{chapter.2}% 19
-\BOOKMARK [1][-]{section.2.2}{Presentazione del Progetto}{chapter.2}% 20
-\BOOKMARK [2][-]{subsection.2.2.1}{Obbiettivo dello Stage}{section.2.2}% 21
-\BOOKMARK [2][-]{subsection.2.2.2}{Finalit\340 del Progetto}{section.2.2}% 22
-\BOOKMARK [1][-]{section.2.3}{Vincoli di Progetto}{chapter.2}% 23
-\BOOKMARK [2][-]{subsection.2.3.1}{Vincoli di Dominio}{section.2.3}% 24
-\BOOKMARK [2][-]{subsection.2.3.2}{Vincoli Tecnologici}{section.2.3}% 25
-\BOOKMARK [2][-]{subsection.2.3.3}{Vincoli Metodologici}{section.2.3}% 26
-\BOOKMARK [2][-]{subsection.2.3.4}{Vincoli Temporali}{section.2.3}% 27
-\BOOKMARK [0][-]{chapter.3}{L'Attivit\340 di Stage}{}% 28
-\BOOKMARK [1][-]{section.3.1}{Pianificazione del Lavoro}{chapter.3}% 29
-\BOOKMARK [2][-]{subsection.3.1.1}{Preparazione al Lavoro di Stage}{section.3.1}% 30
-\BOOKMARK [1][-]{section.3.2}{Analisi dei Requisiti}{chapter.3}% 31
-\BOOKMARK [2][-]{subsection.3.2.1}{Classificazione dei Requisiti}{section.3.2}% 32
-\BOOKMARK [2][-]{subsection.3.2.2}{Individuazione dei Requisiti}{section.3.2}% 33
-\BOOKMARK [2][-]{subsection.3.2.3}{Casi d'Uso}{section.3.2}% 34
-\BOOKMARK [2][-]{subsection.3.2.4}{Dettagli Degni di Nota}{section.3.2}% 35
-\BOOKMARK [1][-]{section.3.3}{Progettazione e Codifica}{chapter.3}% 36
-\BOOKMARK [2][-]{subsection.3.3.1}{Introduzione Architettura Hardware}{section.3.3}% 37
-\BOOKMARK [2][-]{subsection.3.3.2}{Introduzione Architettura Software}{section.3.3}% 38
-\BOOKMARK [2][-]{subsection.3.3.3}{Architettura Libreria Scheda Master}{section.3.3}% 39
-\BOOKMARK [2][-]{subsection.3.3.4}{Architettura Scheda Slave}{section.3.3}% 40
-\BOOKMARK [2][-]{subsection.3.3.5}{Design Pattern Utilizzati}{section.3.3}% 41
-\BOOKMARK [2][-]{subsection.3.3.6}{Dettagli Degni di Nota}{section.3.3}% 42
-\BOOKMARK [2][-]{subsection.3.3.7}{Progettazione di Dettaglio e Codifica}{section.3.3}% 43
-\BOOKMARK [2][-]{subsection.3.3.8}{L'Utilizzo dei Prototipi}{section.3.3}% 44
-\BOOKMARK [1][-]{section.3.4}{Verifica e Validazione}{chapter.3}% 45
-\BOOKMARK [2][-]{subsection.3.4.1}{Analisi Statica}{section.3.4}% 46
-\BOOKMARK [2][-]{subsection.3.4.2}{Test sul Sistema Slave}{section.3.4}% 47
-\BOOKMARK [2][-]{subsection.3.4.3}{Test sul Sistema Master Slave}{section.3.4}% 48
-\BOOKMARK [2][-]{subsection.3.4.4}{Test di Sistema}{section.3.4}% 49
-\BOOKMARK [2][-]{subsection.3.4.5}{Dettagli Degni di Nota}{section.3.4}% 50
-\BOOKMARK [2][-]{subsection.3.4.6}{Consuntivo Orario Finale}{section.3.4}% 51
-\BOOKMARK [0][-]{chapter.4}{Valutazioni Finali}{}% 52
-\BOOKMARK [1][-]{section.4.1}{Raggiungimento degli Obbiettivi}{chapter.4}% 53
-\BOOKMARK [2][-]{subsection.4.1.1}{Rendiconto degli Obbiettivi}{section.4.1}% 54
-\BOOKMARK [1][-]{section.4.2}{Difficolt\340 Riscontrate}{chapter.4}% 55
-\BOOKMARK [1][-]{section.4.3}{Bilancio Formativo}{chapter.4}% 56
-\BOOKMARK [2][-]{subsection.4.3.1}{Preparazione Iniziale}{section.4.3}% 57
-\BOOKMARK [2][-]{subsection.4.3.2}{Esperienze Acquisite}{section.4.3}% 58
-\BOOKMARK [2][-]{subsection.4.3.3}{Considerazioni Finali}{section.4.3}% 59
-\BOOKMARK [0][-]{chapter.5}{Glossario}{}% 60
+\BOOKMARK [0][-]{chapter.1}{Profilo dell'Agenzia}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Cosa offre: Prodotti e Servizi}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{I Prodotti di ARPAV}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{I Servizi di ARPAV}{section.1.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Organizzazione Interna}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{Processi di Sviluppo}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{Metodologie di Supporto ai Processi}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.3}{Strumenti di Supporto ai Processi}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.4}{Tecnologie Utilizzate}{section.1.2}% 9
+\BOOKMARK [1][-]{section.1.3}{Relazioni Esterne}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.3.1}{Clienti Diretti}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.2}{Clienti Secondari}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.3}{Orientamento all'Innovazione}{section.1.3}% 13
+\BOOKMARK [0][-]{chapter.2}{Lo Stage per ARPAV}{}% 14
+\BOOKMARK [1][-]{section.2.1}{L'Esigenza di uno Stage}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.2}{Presentazione del Progetto}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.1}{Obbiettivo dello Stage}{section.2.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.2}{Finalit\340 del Progetto}{section.2.2}% 18
+\BOOKMARK [1][-]{section.2.3}{Vincoli di Progetto}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.3.1}{Vincoli di Dominio}{section.2.3}% 20
+\BOOKMARK [2][-]{subsection.2.3.2}{Vincoli Tecnologici}{section.2.3}% 21
+\BOOKMARK [2][-]{subsection.2.3.3}{Vincoli Metodologici}{section.2.3}% 22
+\BOOKMARK [2][-]{subsection.2.3.4}{Vincoli Temporali}{section.2.3}% 23
+\BOOKMARK [0][-]{chapter.3}{L'Attivit\340 di Stage}{}% 24
+\BOOKMARK [1][-]{section.3.1}{Pianificazione del Lavoro}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.1.1}{Preparazione al Lavoro di Stage}{section.3.1}% 26
+\BOOKMARK [1][-]{section.3.2}{Analisi dei Requisiti}{chapter.3}% 27
+\BOOKMARK [2][-]{subsection.3.2.1}{Classificazione dei Requisiti}{section.3.2}% 28
+\BOOKMARK [2][-]{subsection.3.2.2}{Individuazione dei Requisiti}{section.3.2}% 29
+\BOOKMARK [2][-]{subsection.3.2.3}{Casi d'Uso}{section.3.2}% 30
+\BOOKMARK [2][-]{subsection.3.2.4}{Dettagli Degni di Nota}{section.3.2}% 31
+\BOOKMARK [1][-]{section.3.3}{Progettazione e Codifica}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.1}{Introduzione Architettura Hardware}{section.3.3}% 33
+\BOOKMARK [2][-]{subsection.3.3.2}{Introduzione Architettura Software}{section.3.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.3}{Architettura Libreria Scheda Master}{section.3.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.4}{Architettura Scheda Slave}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.5}{Design Pattern Utilizzati}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.6}{Dettagli Degni di Nota}{section.3.3}% 38
+\BOOKMARK [2][-]{subsection.3.3.7}{Progettazione di Dettaglio e Codifica}{section.3.3}% 39
+\BOOKMARK [2][-]{subsection.3.3.8}{L'Utilizzo dei Prototipi}{section.3.3}% 40
+\BOOKMARK [1][-]{section.3.4}{Verifica e Validazione}{chapter.3}% 41
+\BOOKMARK [2][-]{subsection.3.4.1}{Analisi Statica}{section.3.4}% 42
+\BOOKMARK [2][-]{subsection.3.4.2}{Test sul Sistema Slave}{section.3.4}% 43
+\BOOKMARK [2][-]{subsection.3.4.3}{Test sul Sistema Master Slave}{section.3.4}% 44
+\BOOKMARK [2][-]{subsection.3.4.4}{Test di Sistema}{section.3.4}% 45
+\BOOKMARK [2][-]{subsection.3.4.5}{Dettagli Degni di Nota}{section.3.4}% 46
+\BOOKMARK [2][-]{subsection.3.4.6}{Consuntivo Orario Finale}{section.3.4}% 47
+\BOOKMARK [0][-]{chapter.4}{Valutazioni Finali}{}% 48
+\BOOKMARK [1][-]{section.4.1}{Raggiungimento degli Obbiettivi}{chapter.4}% 49
+\BOOKMARK [2][-]{subsection.4.1.1}{Rendiconto degli Obbiettivi}{section.4.1}% 50
+\BOOKMARK [1][-]{section.4.2}{Difficolt\340 Riscontrate}{chapter.4}% 51
+\BOOKMARK [1][-]{section.4.3}{Bilancio Formativo}{chapter.4}% 52
+\BOOKMARK [2][-]{subsection.4.3.1}{Preparazione Iniziale}{section.4.3}% 53
+\BOOKMARK [2][-]{subsection.4.3.2}{Esperienze Acquisite}{section.4.3}% 54
+\BOOKMARK [2][-]{subsection.4.3.3}{Considerazioni Finali}{section.4.3}% 55
+\BOOKMARK [0][-]{chapter.5}{Glossario}{}% 56

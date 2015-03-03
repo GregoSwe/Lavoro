@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  3 MAR 2015 13:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  3 MAR 2015 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -157,16 +157,50 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+)
+\c@ContinuedFloat=\count107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip46
+\LTright=\skip47
+\LTpre=\skip48
+\LTpost=\skip49
+\LTchunksize=\count108
+\LTcapwidth=\dimen122
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count109
+\LT@rows=\count110
+\c@LT@tables=\count111
+\c@LT@chunks=\count112
+\LT@p@ftn=\toks25
+)
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip46
-\f@ncyO@elh=\skip47
-\f@ncyO@erh=\skip48
-\f@ncyO@olh=\skip49
-\f@ncyO@orh=\skip50
-\f@ncyO@elf=\skip51
-\f@ncyO@erf=\skip52
-\f@ncyO@olf=\skip53
-\f@ncyO@orf=\skip54
+\fancy@headwidth=\skip50
+\f@ncyO@elh=\skip51
+\f@ncyO@erh=\skip52
+\f@ncyO@olh=\skip53
+\f@ncyO@orh=\skip54
+\f@ncyO@elf=\skip55
+\f@ncyO@erf=\skip56
+\f@ncyO@olf=\skip57
+\f@ncyO@orf=\skip58
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
@@ -224,14 +258,14 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen115
-\Hy@linkcounter=\count107
-\Hy@pagecounter=\count108
+\@linkdim=\dimen123
+\Hy@linkcounter=\count113
+\Hy@pagecounter=\count114
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count109
+\Hy@SavedSpaceFactor=\count115
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -243,17 +277,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count110
+\c@Hy@tempcnt=\count116
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen116
-\Fld@menulength=\count111
-\Field@Width=\dimen117
-\Fld@charsize=\dimen118
+\XeTeXLinkMargin=\dimen124
+\Fld@menulength=\count117
+\Field@Width=\dimen125
+\Fld@charsize=\dimen126
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -263,24 +297,24 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count112
-\c@Item=\count113
-\c@Hfootnote=\count114
+\Hy@abspage=\count118
+\c@Item=\count119
+\c@Hfootnote=\count120
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count115
-\c@bookmark@seq@number=\count116
+\Fld@listcount=\count121
+\c@bookmark@seq@number=\count122
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip55
+\Hy@SectionHShift=\skip59
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 
@@ -318,17 +352,17 @@ italian.ldf    on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count117
-\scratchdimen=\dimen119
-\scratchbox=\box28
-\nofMPsegments=\count118
-\nofMParguments=\count119
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count120
-\MPscratchDim=\dimen120
-\MPnumerator=\count121
-\makeMPintoPDFobject=\count122
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count123
+\scratchdimen=\dimen127
+\scratchbox=\box32
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen128
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
+\everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -344,7 +378,15 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box29
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box33
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -362,7 +404,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count123
+\c@section@level=\count129
 )
 LaTeX Info: Redefining \ref on input line 52.
 LaTeX Info: Redefining \pageref on input line 52.
@@ -376,7 +418,7 @@ LaTeX Info: Redefining \nameref on input line 52.
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<img/Logo_Unipd.png, id=245, 943.525pt x 949.5475pt>
+<img/Logo_Unipd.png, id=229, 943.525pt x 949.5475pt>
 File: img/Logo_Unipd.png Graphic file (type png)
  <use img/Logo_Unipd.png>
 Package pdftex.def Info: img/Logo_Unipd.png used on input line 64.
@@ -399,15 +441,11 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 ] [4]
 (./Relazione Finale.toc [5
 
-]
-Underfull \vbox (badness 5077) has occurred while \output is active []
-
- [6])
+] [6])
 \tf@toc=\write4
 \openout4 = `"Relazione Finale.toc"'.
 
-
-[7] [8
+ [7] [8
 
 ] (./Relazione Finale.lof)
 \tf@lof=\write5
@@ -415,23 +453,36 @@ Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [9] [10
 
+]
+(./Relazione Finale.lot)
+\tf@lot=\write6
+\openout6 = `"Relazione Finale.lot"'.
+
+ [11] [12
+
 ] (./capitoli/capitolo1/capitolo1.tex
 Capitolo 1.
-<./capitoli/capitolo1/img/logoARPAV.jpg, id=373, 382.42876pt x 124.465pt>
+<./capitoli/capitolo1/img/logoARPAV.jpg, id=367, 382.42876pt x 124.465pt>
 File: ./capitoli/capitolo1/img/logoARPAV.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/logoARPAV.jpg>
 Package pdftex.def Info: ./capitoli/capitolo1/img/logoARPAV.jpg used on input l
 ine 9.
 (pdftex.def)             Requested size: 267.69829pt x 87.1249pt.
+
+Underfull \vbox (badness 1412) has occurred while \output is active []
+
  [1
 
- <./capitoli/capitolo1/img/logoARPAV.jpg>] [2]) (./capitoli/capitolo2/capitolo2
-.tex [3] [4
+ <./capitoli/capitolo1/img/logoARPAV.jpg>]
+Underfull \vbox (badness 5787) has occurred while \output is active []
 
-]
+ [2]
+[3]) (./capitoli/capitolo2/capitolo2.tex [4]
 Capitolo 2.
-[5]) (./capitoli/capitolo3/capitolo3.tex [6]
+[5
+
+]) (./capitoli/capitolo3/capitolo3.tex [6]
 Capitolo 3.
 [7
 
@@ -450,16 +501,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 155.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 155.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 155.
 Package rerunfilecheck Info: File `"Relazione Finale".out' has not changed.
-(rerunfilecheck)             Checksum: 6A446EE82B0456A2CF315520093538A0;4358.
+(rerunfilecheck)             Checksum: EE29EA3649DA9B9BD22FF3DC565A069B;4122.
  ) 
 Here is how much of TeX's memory you used:
- 7592 strings out of 493304
- 107284 string characters out of 6139872
- 208791 words of memory out of 5000000
- 10838 multiletter control sequences out of 15000+600000
- 12037 words of font info for 42 fonts, out of 8000000 for 9000
+ 8717 strings out of 493304
+ 127374 string characters out of 6139872
+ 228244 words of memory out of 5000000
+ 11943 multiletter control sequences out of 15000+600000
+ 12389 words of font info for 43 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 30i,12n,43p,846b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,12n,43p,846b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
@@ -470,11 +521,12 @@ type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmti12.pfb>
-Output written on "Relazione Finale.pdf" (25 pages, 305291 bytes).
+cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.
+pfb>
+Output written on "Relazione Finale.pdf" (27 pages, 313494 bytes).
 PDF statistics:
- 506 PDF objects out of 1000 (max. 8388607)
- 460 compressed objects within 5 object streams
- 100 named destinations out of 1000 (max. 500000)
- 491 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 505 PDF objects out of 1000 (max. 8388607)
+ 456 compressed objects within 5 object streams
+ 103 named destinations out of 1000 (max. 500000)
+ 459 words of extra memory for PDF output out of 10000 (max. 10000000)
 
