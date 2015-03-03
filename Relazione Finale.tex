@@ -9,18 +9,6 @@
 %\usepackage{fancyhdr}
 
 
-\oddsidemargin=0pt
-\topmargin=0pt
-\headheight=0.7in
-\headsep=25pt
-%\textheight=666pt
-\textwidth=444pt
-\marginparsep=0pt
-\marginparwidth=0pt
-\footskip=20pt
-\hoffset=0pt
-\voffset=0pt
-
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -41,10 +29,22 @@
 }
 
 
-\renewcommand{\chaptermark}[1]{%
-\markboth{\thechapter.\ #1}{}}
+\renewcommand{\chaptermark}[1]{
+.\markboth{\thechapter.\ #1}{}}
 
 \renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
+
+\headsep=0pt
+\topmargin=0pt
+\headheight=0.7in
+\headsep=25pt
+\textheight=550pt
+\textwidth=444pt
+\marginparsep=0pt
+\marginparwidth=0pt
+\footskip=2cm
+\hoffset=0pt
+\voffset=0pt
 
 
 
@@ -124,6 +124,8 @@ Nel documento sono state introdotto delle convenzioni topografiche per agevolare
 \tableofcontents    
 
 \listoffigures
+
+\listoftables
 
 \newpage
 \thispagestyle{empty}

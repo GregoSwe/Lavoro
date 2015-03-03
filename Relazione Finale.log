@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  3 MAR 2015 12:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  3 MAR 2015 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -282,7 +282,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 41.
+Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 
 (./Relazione Finale.aux)
 \openout1 = `"Relazione Finale.aux"'.
@@ -400,7 +400,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (./Relazione Finale.toc [5
 
 ]
-Underfull \vbox (badness 1097) has occurred while \output is active []
+Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [6])
 \tf@toc=\write4
@@ -422,7 +422,7 @@ File: ./capitoli/capitolo1/img/logoARPAV.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/logoARPAV.jpg>
 Package pdftex.def Info: ./capitoli/capitolo1/img/logoARPAV.jpg used on input l
-ine 10.
+ine 9.
 (pdftex.def)             Requested size: 267.69829pt x 87.1249pt.
  [1
 
@@ -431,26 +431,18 @@ ine 10.
 
 ]
 Capitolo 2.
-[5]) (./capitoli/capitolo3/capitolo3.tex [6] [7] [8
-
-]
+[5]) (./capitoli/capitolo3/capitolo3.tex [6]
 Capitolo 3.
+[7
 
-Underfull \vbox (badness 2384) has occurred while \output is active []
-
- [9]
-[10] [11] [12]) (./capitoli/capitolo4/capitolo4.tex [13] [14
+] [8] [9] [10]) (./capitoli/capitolo4/capitolo4.tex [11] [12
 
 ]
 Capitolo 4.
-
-Underfull \vbox (badness 1237) has occurred while \output is active []
-
- [15])
-[16]
+[13]) [14]
 Capitolo 5.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 155.
-[17
+[15
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 155.
@@ -461,9 +453,9 @@ Package rerunfilecheck Info: File `"Relazione Finale".out' has not changed.
 (rerunfilecheck)             Checksum: 6A446EE82B0456A2CF315520093538A0;4358.
  ) 
 Here is how much of TeX's memory you used:
- 7594 strings out of 493304
- 107298 string characters out of 6139872
- 208789 words of memory out of 5000000
+ 7592 strings out of 493304
+ 107284 string characters out of 6139872
+ 208791 words of memory out of 5000000
  10838 multiletter control sequences out of 15000+600000
  12037 words of font info for 42 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -479,10 +471,10 @@ public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti12.pfb>
-Output written on "Relazione Finale.pdf" (27 pages, 305701 bytes).
+Output written on "Relazione Finale.pdf" (25 pages, 305291 bytes).
 PDF statistics:
- 514 PDF objects out of 1000 (max. 8388607)
- 466 compressed objects within 5 object streams
- 102 named destinations out of 1000 (max. 500000)
+ 506 PDF objects out of 1000 (max. 8388607)
+ 460 compressed objects within 5 object streams
+ 100 named destinations out of 1000 (max. 500000)
  491 words of extra memory for PDF output out of 10000 (max. 10000000)
 
