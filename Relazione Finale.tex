@@ -9,6 +9,18 @@
 %\usepackage{fancyhdr}
 
 
+\oddsidemargin=0pt
+\topmargin=0pt
+\headheight=0.7in
+\headsep=25pt
+%\textheight=666pt
+\textwidth=444pt
+\marginparsep=0pt
+\marginparwidth=0pt
+\footskip=20pt
+\hoffset=0pt
+\voffset=0pt
+
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -27,15 +39,14 @@
     linkcolor=black,
     urlcolor=black
 }
-\cfoot{}
-\rfoot{\thepage\ di 16}
-\renewcommand{\footrulewidth}{0.4pt}
-\newcommand{\numref}[1]{\textsl{\nameref{#1} (\ref{#1})}}
+
 
 \renewcommand{\chaptermark}[1]{%
 \markboth{\thechapter.\ #1}{}}
 
 \renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
+
+
 
 %%%%%%%%%%%%%
 \begin{document}
@@ -117,7 +128,10 @@ Nel documento sono state introdotto delle convenzioni topografiche per agevolare
 \newpage
 \thispagestyle{empty}
 
-                  
+\cfoot{}
+\rfoot{\thepage\ di 17}
+\renewcommand{\footrulewidth}{0.2pt}
+\newcommand{\numref}[1]{\textsl{\nameref{#1} (\ref{#1})}}                
 \mainmatter       
   
 

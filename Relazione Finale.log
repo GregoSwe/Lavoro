@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  2 MAR 2015 17:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  3 MAR 2015 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -282,31 +282,31 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 29.
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
 
 (./Relazione Finale.aux)
 \openout1 = `"Relazione Finale.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-LaTeX Info: Redefining \it@ocap on input line 41.
-LaTeX Info: Redefining \it@ccap on input line 41.
+LaTeX Info: Redefining \it@ocap on input line 52.
+LaTeX Info: Redefining \it@ccap on input line 52.
 
 
 File italian.ldf warning: 
@@ -314,7 +314,7 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 41.
+italian.ldf    on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -354,7 +354,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 41.
+Package hyperref Info: Link coloring ON on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -364,9 +364,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count123
 )
-LaTeX Info: Redefining \ref on input line 41.
-LaTeX Info: Redefining \pageref on input line 41.
-LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
 
 (./Relazione Finale.out) (./Relazione Finale.out)
 \@outlinefile=\write3
@@ -379,7 +379,7 @@ File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 <img/Logo_Unipd.png, id=245, 943.525pt x 949.5475pt>
 File: img/Logo_Unipd.png Graphic file (type png)
  <use img/Logo_Unipd.png>
-Package pdftex.def Info: img/Logo_Unipd.png used on input line 53.
+Package pdftex.def Info: img/Logo_Unipd.png used on input line 64.
 (pdftex.def)             Requested size: 188.70164pt x 189.90613pt.
 
 [1
@@ -387,23 +387,17 @@ Package pdftex.def Info: img/Logo_Unipd.png used on input line 53.
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/Logo_Unipd.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 74.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 85.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
  [2] [3
 
-]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[4] (./Relazione Finale.toc [5
+] [4]
+(./Relazione Finale.toc [5
 
 ]
 Underfull \vbox (badness 1097) has occurred while \output is active []
@@ -428,7 +422,7 @@ File: ./capitoli/capitolo1/img/logoARPAV.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/logoARPAV.jpg>
 Package pdftex.def Info: ./capitoli/capitolo1/img/logoARPAV.jpg used on input l
-ine 9.
+ine 10.
 (pdftex.def)             Requested size: 267.69829pt x 87.1249pt.
  [1
 
@@ -437,39 +431,39 @@ ine 9.
 
 ]
 Capitolo 2.
-[5] [6]) (./capitoli/capitolo3/capitolo3.tex [7] [8
+[5]) (./capitoli/capitolo3/capitolo3.tex [6] [7] [8
 
 ]
 Capitolo 3.
-[9] [10] [11]
-Underfull \vbox (badness 2671) has occurred while \output is active []
 
- [12]
-[13]) (./capitoli/capitolo4/capitolo4.tex [14]
+Underfull \vbox (badness 2384) has occurred while \output is active []
+
+ [9]
+[10] [11] [12]) (./capitoli/capitolo4/capitolo4.tex [13] [14
+
+]
 Capitolo 4.
 
 Underfull \vbox (badness 1237) has occurred while \output is active []
 
- [15
-
-])
+ [15])
 [16]
 Capitolo 5.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 155.
 [17
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 155.
  (./Relazione Finale.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 155.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 155.
 Package rerunfilecheck Info: File `"Relazione Finale".out' has not changed.
 (rerunfilecheck)             Checksum: 6A446EE82B0456A2CF315520093538A0;4358.
  ) 
 Here is how much of TeX's memory you used:
  7594 strings out of 493304
  107298 string characters out of 6139872
- 208823 words of memory out of 5000000
+ 208789 words of memory out of 5000000
  10838 multiletter control sequences out of 15000+600000
  12037 words of font info for 42 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -485,7 +479,7 @@ public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti12.pfb>
-Output written on "Relazione Finale.pdf" (27 pages, 305426 bytes).
+Output written on "Relazione Finale.pdf" (27 pages, 305701 bytes).
 PDF statistics:
  514 PDF objects out of 1000 (max. 8388607)
  466 compressed objects within 5 object streams
