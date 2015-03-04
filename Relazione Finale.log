@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  3 MAR 2015 17:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  4 MAR 2015 11:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -523,20 +523,29 @@ Underfull \vbox (badness 1412) has occurred while \output is active []
  [1
 
  <./capitoli/capitolo1/img/logoARPAV.jpg>]
+Overfull \hbox (36.79999pt too wide) in alignment at lines 53--57
+ [] [] [] 
+ []
+
 <./capitoli/capitolo1/img/alpini.png, id=376, 127.47626pt x 60.225pt>
 File: ./capitoli/capitolo1/img/alpini.png Graphic file (type png)
 
 <use ./capitoli/capitolo1/img/alpini.png>
 Package pdftex.def Info: ./capitoli/capitolo1/img/alpini.png used on input line
- 57.
+ 59.
 (pdftex.def)             Requested size: 101.98112pt x 48.18005pt.
 
-Overfull \hbox (13.18248pt too wide) in paragraph at lines 57--57
+Overfull \hbox (13.18248pt too wide) in paragraph at lines 59--59
 [][]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 [][]\OT1/cmr/bx/n/10.95 SedAlp[]: Pro-gram-ma
  []
 
@@ -544,12 +553,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 File: ./capitoli/capitolo1/img/med.JPG Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/med.JPG>
-Package pdftex.def Info: ./capitoli/capitolo1/img/med.JPG used on input line 60
+Package pdftex.def Info: ./capitoli/capitolo1/img/med.JPG used on input line 62
 .
 (pdftex.def)             Requested size: 89.93538pt x 17.56549pt.
 
-Overfull \hbox (1.13673pt too wide) in paragraph at lines 60--60
+Overfull \hbox (1.13673pt too wide) in paragraph at lines 62--62
 [][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+
  []
 
 <./capitoli/capitolo1/img/park.jpg, id=378, 128.48pt x 51.19125pt>
@@ -557,52 +571,82 @@ File: ./capitoli/capitolo1/img/park.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/park.jpg>
 Package pdftex.def Info: ./capitoli/capitolo1/img/park.jpg used on input line 6
-2.
+4.
 (pdftex.def)             Requested size: 89.93538pt x 35.83362pt.
-
-Overfull \hbox (1.13673pt too wide) in paragraph at lines 62--62
-[][]| 
- []
-
-<./capitoli/capitolo1/img/resmia.JPG, id=379, 128.48pt x 79.29625pt>
-File: ./capitoli/capitolo1/img/resmia.JPG Graphic file (type jpg)
-
-<use ./capitoli/capitolo1/img/resmia.JPG>
-Package pdftex.def Info: ./capitoli/capitolo1/img/resmia.JPG used on input line
- 64.
-(pdftex.def)             Requested size: 89.93538pt x 55.50697pt.
 
 Overfull \hbox (1.13673pt too wide) in paragraph at lines 64--64
 [][]| 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+
+ []
+
+<./capitoli/capitolo1/img/interr.jpg, id=379, 128.48pt x 56.21pt>
+File: ./capitoli/capitolo1/img/interr.jpg Graphic file (type jpg)
+
+<use ./capitoli/capitolo1/img/interr.jpg>
+Package pdftex.def Info: ./capitoli/capitolo1/img/interr.jpg used on input line
+ 66.
+(pdftex.def)             Requested size: 89.93538pt x 39.34673pt.
+
+Overfull \hbox (1.13673pt too wide) in paragraph at lines 66--66
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+
+ []
+
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 7631) in paragraph at lines 64--64
+Underfull \hbox (badness 7631) in paragraph at lines 66--66
 [][]\OT1/cmr/bx/n/10.95 3PClim[]: Pro-gram-ma
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 64--65
-[]|\OT1/cmr/m/n/10.95 aggiornamento del-la cli-ma-to-lo-gia del-le Al-
+Underfull \hbox (badness 1320) in paragraph at lines 66--67
+[]|\OT1/cmr/m/n/10.95 Aggiornamento del-la cli-ma-to-lo-gia del-le Al-
+ []
+
+<./capitoli/capitolo1/img/resmia.JPG, id=380, 128.48pt x 79.29625pt>
+File: ./capitoli/capitolo1/img/resmia.JPG Graphic file (type jpg)
+
+<use ./capitoli/capitolo1/img/resmia.JPG>
+Package pdftex.def Info: ./capitoli/capitolo1/img/resmia.JPG used on input line
+ 68.
+(pdftex.def)             Requested size: 89.93538pt x 55.50697pt.
+
+Overfull \hbox (1.13673pt too wide) in paragraph at lines 68--68
+[][]| 
  []
 
 
-Overfull \hbox (36.79999pt too wide) in alignment at lines 53--68
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 68--69
+\OT1/cmr/m/n/10.95 biet-ti-vo di po-ten-zia-re ed in-te-gra-re la re-te
+ []
+
+
+Overfull \hbox (36.79999pt too wide) in alignment at lines 57--71
  [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 68
+Underfull \vbox (badness 10000) detected at line 71
  []
 
-[2 <./capitoli/capitolo1/img/alpini.png>]
-Underfull \vbox (badness 2073) has occurred while \output is active []
-
- [3 <./capitoli/capitolo1/img/med.JPG> <./capitoli/capitolo1/img/park.jpg> <./c
-apitoli/capitolo1/img/resmia.JPG>]) (./capitoli/capitolo2/capitolo2.tex [4] [5]
- [6
+[2 <./capitoli/capitolo1/img/alpini.png>] [3 <./capitoli/capitolo1/img/med.JPG>
+ <./capitoli/capitolo1/img/park.jpg> <./capitoli/capitolo1/img/interr.jpg> <./c
+apitoli/capitolo1/img/resmia.JPG>] [4]) (./capitoli/capitolo2/capitolo2.tex
+[5] [6
 
 ]
 Capitolo 2.
@@ -628,29 +672,30 @@ Package rerunfilecheck Info: File `"Relazione Finale".out' has not changed.
 (rerunfilecheck)             Checksum: EE29EA3649DA9B9BD22FF3DC565A069B;4122.
  ) 
 Here is how much of TeX's memory you used:
- 9572 strings out of 493304
- 137936 string characters out of 6139872
- 250559 words of memory out of 5000000
- 12765 multiletter control sequences out of 15000+600000
- 12389 words of font info for 43 fonts, out of 8000000 for 9000
+ 9580 strings out of 493304
+ 138140 string characters out of 6139872
+ 253559 words of memory out of 5000000
+ 12771 multiletter control sequences out of 15000+600000
+ 12748 words of font info for 44 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  36i,12n,47p,846b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.
-pfb>
-Output written on "Relazione Finale.pdf" (29 pages, 331694 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
+12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+
+Output written on "Relazione Finale.pdf" (29 pages, 347206 bytes).
 PDF statistics:
- 520 PDF objects out of 1000 (max. 8388607)
- 464 compressed objects within 5 object streams
+ 525 PDF objects out of 1000 (max. 8388607)
+ 467 compressed objects within 5 object streams
  106 named destinations out of 1000 (max. 500000)
- 479 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 484 words of extra memory for PDF output out of 10000 (max. 10000000)
 
