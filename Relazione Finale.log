@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  4 MAR 2015 11:42
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  4 MAR 2015 13:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -466,7 +466,7 @@ LaTeX Info: Redefining \nameref on input line 56.
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<img/Logo_Unipd.png, id=229, 943.525pt x 949.5475pt>
+<img/Logo_Unipd.png, id=225, 943.525pt x 949.5475pt>
 File: img/Logo_Unipd.png Graphic file (type png)
  <use img/Logo_Unipd.png>
 Package pdftex.def Info: img/Logo_Unipd.png used on input line 68.
@@ -510,7 +510,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 
 ] (./capitoli/capitolo1/capitolo1.tex
 Capitolo 1.
-<./capitoli/capitolo1/img/logoARPAV.jpg, id=369, 382.42876pt x 124.465pt>
+<./capitoli/capitolo1/img/logoARPAV.jpg, id=367, 382.42876pt x 124.465pt>
 File: ./capitoli/capitolo1/img/logoARPAV.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/logoARPAV.jpg>
@@ -527,7 +527,7 @@ Overfull \hbox (36.79999pt too wide) in alignment at lines 53--57
  [] [] [] 
  []
 
-<./capitoli/capitolo1/img/alpini.png, id=376, 127.47626pt x 60.225pt>
+<./capitoli/capitolo1/img/alpini.png, id=374, 127.47626pt x 60.225pt>
 File: ./capitoli/capitolo1/img/alpini.png Graphic file (type png)
 
 <use ./capitoli/capitolo1/img/alpini.png>
@@ -549,7 +549,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 [][]\OT1/cmr/bx/n/10.95 SedAlp[]: Pro-gram-ma
  []
 
-<./capitoli/capitolo1/img/med.JPG, id=377, 128.48pt x 25.09375pt>
+<./capitoli/capitolo1/img/med.JPG, id=375, 128.48pt x 25.09375pt>
 File: ./capitoli/capitolo1/img/med.JPG Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/med.JPG>
@@ -566,7 +566,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--62
 
  []
 
-<./capitoli/capitolo1/img/park.jpg, id=378, 128.48pt x 51.19125pt>
+<./capitoli/capitolo1/img/park.jpg, id=376, 128.48pt x 51.19125pt>
 File: ./capitoli/capitolo1/img/park.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/park.jpg>
@@ -583,7 +583,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--64
 
  []
 
-<./capitoli/capitolo1/img/interr.jpg, id=379, 128.48pt x 56.21pt>
+<./capitoli/capitolo1/img/interr.jpg, id=377, 128.48pt x 56.21pt>
 File: ./capitoli/capitolo1/img/interr.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/interr.jpg>
@@ -612,7 +612,7 @@ Underfull \hbox (badness 1320) in paragraph at lines 66--67
 []|\OT1/cmr/m/n/10.95 Aggiornamento del-la cli-ma-to-lo-gia del-le Al-
  []
 
-<./capitoli/capitolo1/img/resmia.JPG, id=380, 128.48pt x 79.29625pt>
+<./capitoli/capitolo1/img/resmia.JPG, id=378, 128.48pt x 79.29625pt>
 File: ./capitoli/capitolo1/img/resmia.JPG Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/resmia.JPG>
@@ -645,12 +645,20 @@ Underfull \vbox (badness 10000) detected at line 71
 
 [2 <./capitoli/capitolo1/img/alpini.png>] [3 <./capitoli/capitolo1/img/med.JPG>
  <./capitoli/capitolo1/img/park.jpg> <./capitoli/capitolo1/img/interr.jpg> <./c
-apitoli/capitolo1/img/resmia.JPG>] [4]) (./capitoli/capitolo2/capitolo2.tex
-[5] [6
+apitoli/capitolo1/img/resmia.JPG>]
+<./capitoli/capitolo1/img/retiresmia.jpg, id=390, 1043.9pt x 722.7pt>
+File: ./capitoli/capitolo1/img/retiresmia.jpg Graphic file (type jpg)
 
-]
+<use ./capitoli/capitolo1/img/retiresmia.jpg>
+Package pdftex.def Info: ./capitoli/capitolo1/img/retiresmia.jpg used on input 
+line 88.
+(pdftex.def)             Requested size: 313.17241pt x 216.81166pt.
+ [4 <./capitoli/capitolo1/img/retiresmia.jpg>] [5]) (./capitoli/capitolo2/capit
+olo2.tex [6]
 Capitolo 2.
-[7]) (./capitoli/capitolo3/capitolo3.tex [8]
+[7
+
+]) (./capitoli/capitolo3/capitolo3.tex [8]
 Capitolo 3.
 [9
 
@@ -658,24 +666,23 @@ Capitolo 3.
 
 ]
 Capitolo 4.
-[15]) [16]
-Capitolo 5.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
-[17
+[15]) [16] [17
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
  (./Relazione Finale.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 212.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
 Package rerunfilecheck Info: File `"Relazione Finale".out' has not changed.
-(rerunfilecheck)             Checksum: EE29EA3649DA9B9BD22FF3DC565A069B;4122.
+(rerunfilecheck)             Checksum: C5F4D73516E55CE89027BF2E87F766A7;4077.
  ) 
 Here is how much of TeX's memory you used:
- 9580 strings out of 493304
- 138140 string characters out of 6139872
- 253559 words of memory out of 5000000
- 12771 multiletter control sequences out of 15000+600000
+ 9594 strings out of 493304
+ 138422 string characters out of 6139872
+ 253565 words of memory out of 5000000
+ 12774 multiletter control sequences out of 15000+600000
  12748 words of font info for 44 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  36i,12n,47p,846b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -692,10 +699,10 @@ fonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
 12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
 
-Output written on "Relazione Finale.pdf" (29 pages, 347206 bytes).
+Output written on "Relazione Finale.pdf" (30 pages, 441131 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
- 467 compressed objects within 5 object streams
- 106 named destinations out of 1000 (max. 500000)
- 484 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 539 PDF objects out of 1000 (max. 8388607)
+ 479 compressed objects within 5 object streams
+ 116 named destinations out of 1000 (max. 500000)
+ 481 words of extra memory for PDF output out of 10000 (max. 10000000)
 
