@@ -23,50 +23,49 @@
 \contentsline {chapter}{\numberline {2}Lo Stage per ARPAV}{19}{chapter.2}
 \contentsline {section}{\numberline {2.1}L'Esigenza di uno Stage}{19}{section.2.1}
 \contentsline {section}{\numberline {2.2}Presentazione del Progetto}{20}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Obbiettivo dello Stage}{20}{subsection.2.2.1}
-\contentsline {subsubsection}{Obbiettivi Minimi Richiesti}{20}{section*.26}
-\contentsline {subsubsection}{Obbiettivi Massimi Raggiungibili}{20}{section*.27}
-\contentsline {subsection}{\numberline {2.2.2}Finalit\IeC {\`a} del Progetto}{20}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Vincoli di Progetto}{21}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Vincoli di Dominio}{21}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Vincoli Tecnologici}{21}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Vincoli Metodologici}{21}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Vincoli Temporali}{21}{subsection.2.3.4}
-\contentsline {chapter}{\numberline {3}L'Attivit\IeC {\`a} di Stage}{23}{chapter.3}
-\contentsline {section}{\numberline {3.1}Pianificazione del Lavoro}{23}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Preparazione al Lavoro di Stage}{23}{subsection.3.1.1}
-\contentsline {subsubsection}{Studio del Dominio}{23}{section*.28}
-\contentsline {subsubsection}{Studio delle Tecnologie}{23}{section*.29}
-\contentsline {subsubsection}{Criticit\IeC {\`a} riscontrate}{24}{section*.30}
-\contentsline {section}{\numberline {3.2}Analisi dei Requisiti}{24}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Classificazione dei Requisiti}{24}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Individuazione dei Requisiti}{24}{subsection.3.2.2}
-\contentsline {subsubsection}{Strumenti Utilizzati}{24}{section*.31}
-\contentsline {subsection}{\numberline {3.2.3}Casi d'Uso}{24}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Dettagli Degni di Nota}{24}{subsection.3.2.4}
-\contentsline {section}{\numberline {3.3}Progettazione e Codifica}{25}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Introduzione Architettura Hardware}{25}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Introduzione Architettura Software}{25}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Architettura Libreria Scheda Master}{25}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Architettura Scheda Slave}{25}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Design Pattern Utilizzati}{25}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Dettagli Degni di Nota}{26}{subsection.3.3.6}
-\contentsline {subsection}{\numberline {3.3.7}Progettazione di Dettaglio e Codifica}{26}{subsection.3.3.7}
-\contentsline {subsubsection}{Dettagli Degni di Nota}{26}{section*.32}
-\contentsline {subsection}{\numberline {3.3.8}L'Utilizzo dei Prototipi}{26}{subsection.3.3.8}
-\contentsline {section}{\numberline {3.4}Verifica e Validazione}{26}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Analisi Statica}{26}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Test sul Sistema Slave}{27}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Test sul Sistema Master Slave}{27}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Test di Sistema}{27}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {3.4.5}Dettagli Degni di Nota}{27}{subsection.3.4.5}
-\contentsline {subsection}{\numberline {3.4.6}Consuntivo Orario Finale}{27}{subsection.3.4.6}
-\contentsline {chapter}{\numberline {4}Valutazioni Finali}{29}{chapter.4}
-\contentsline {section}{\numberline {4.1}Raggiungimento degli Obbiettivi}{29}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Rendiconto degli Obbiettivi}{29}{subsection.4.1.1}
-\contentsline {section}{\numberline {4.2}Difficolt\IeC {\`a} Riscontrate}{29}{section.4.2}
-\contentsline {section}{\numberline {4.3}Bilancio Formativo}{29}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Preparazione Iniziale}{29}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Esperienze Acquisite}{30}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Considerazioni Finali}{30}{subsection.4.3.3}
-\contentsline {chapter}{\numberline {5}Glossario}{31}{chapter.5}
+\contentsline {subsection}{\numberline {2.2.1}Obiettivo dello Stage}{22}{subsection.2.2.1}
+\contentsline {subsubsection}{Obiettivi Minimi Richiesti}{22}{section*.29}
+\contentsline {subsubsection}{Obiettivi Massimi Raggiungibili}{23}{section*.30}
+\contentsline {subsection}{\numberline {2.2.2}Finalit\IeC {\`a} del Progetto}{24}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Vincoli di Progetto}{25}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Vincoli di Dominio}{25}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Vincoli Tecnologici}{26}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Vincoli Metodologici}{30}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Vincoli Temporali}{30}{subsection.2.3.4}
+\contentsline {chapter}{\numberline {3}L'Attivit\IeC {\`a} di Stage}{31}{chapter.3}
+\contentsline {section}{\numberline {3.1}Pianificazione del Lavoro}{32}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Preparazione al Lavoro di Stage}{33}{subsection.3.1.1}
+\contentsline {subsubsection}{Studio del Dominio}{33}{section*.40}
+\contentsline {subsubsection}{Studio delle Tecnologie}{34}{section*.42}
+\contentsline {section}{\numberline {3.2}Analisi dei Requisiti}{38}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Classificazione dei Requisiti}{38}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Individuazione dei Requisiti}{38}{subsection.3.2.2}
+\contentsline {subsubsection}{Strumenti Utilizzati}{40}{section*.45}
+\contentsline {subsection}{\numberline {3.2.3}Casi d'Uso}{41}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Dettagli Degni di Nota}{41}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Progettazione e Codifica}{41}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Introduzione Architettura Hardware}{41}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Introduzione Architettura Software}{43}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Architettura Libreria Scheda Master}{44}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Architettura Scheda Slave}{44}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Design Pattern Utilizzati}{44}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Dettagli Degni di Nota}{44}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Progettazione di Dettaglio e Codifica}{44}{subsection.3.3.7}
+\contentsline {subsubsection}{Dettagli Degni di Nota}{44}{section*.49}
+\contentsline {subsection}{\numberline {3.3.8}L'Utilizzo dei Prototipi}{45}{subsection.3.3.8}
+\contentsline {section}{\numberline {3.4}Verifica e Validazione}{45}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Analisi Statica}{45}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}\textit {test} sul Sistema Slave}{45}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}\textit {test} sul Sistema Master Slave}{45}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}\textit {test} di Sistema}{45}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Dettagli Degni di Nota}{46}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Consuntivo Orario Finale}{46}{subsection.3.4.6}
+\contentsline {chapter}{\numberline {4}Valutazioni Finali}{47}{chapter.4}
+\contentsline {section}{\numberline {4.1}Raggiungimento degli Obbiettivi}{47}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Rendiconto degli Obbiettivi}{47}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Difficolt\IeC {\`a} Riscontrate}{47}{section.4.2}
+\contentsline {section}{\numberline {4.3}Bilancio Formativo}{47}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Preparazione Iniziale}{47}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Esperienze Acquisite}{48}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Considerazioni Finali}{48}{subsection.4.3.3}
+\contentsline {chapter}{\numberline {5}Glossario}{49}{chapter.5}

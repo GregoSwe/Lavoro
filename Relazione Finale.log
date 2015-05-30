@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  11 MAY 2015 12:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.1)  30 MAY 2015 18:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -480,40 +480,43 @@ Package pdftex.def Info: img/Logo_Unipd.png used on input line 69.
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/Logo_Unipd.png>]
-[2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 91.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
- [3] [4
+ [2] [3
 
-] [5]
-[6] (./Relazione Finale.toc [7
+] [4]
+(./Relazione Finale.toc [5
 
-] [8])
+] [6])
 \tf@toc=\write4
 \openout4 = `"Relazione Finale.toc"'.
 
- [9] [10
+ [7] [8
 
-] (./Relazione Finale.lof)
+] (./Relazione Finale.lof
+Underfull \vbox (badness 4518) has occurred while \output is active []
+
+ [9])
 \tf@lof=\write5
 \openout5 = `"Relazione Finale.lof"'.
 
- [11]
-[12
 
-] (./Relazione Finale.lot)
+[10] (./Relazione Finale.lot)
 \tf@lot=\write6
 \openout6 = `"Relazione Finale.lot"'.
 
- [13] [14
+ [11
+
+] [12
 
 ] (./capitoli/capitolo1/capitolo1.tex
 Capitolo 1.
-<./capitoli/capitolo1/img/logoARPAV.jpg, id=381, 382.42876pt x 124.465pt>
+<./capitoli/capitolo1/img/logoARPAV.jpg, id=422, 382.42876pt x 124.465pt>
 File: ./capitoli/capitolo1/img/logoARPAV.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/logoARPAV.jpg>
@@ -530,7 +533,7 @@ Overfull \hbox (36.79999pt too wide) in alignment at lines 53--57
  [] [] [] 
  []
 
-<./capitoli/capitolo1/img/alpini.png, id=387, 127.47626pt x 60.225pt>
+<./capitoli/capitolo1/img/alpini.png, id=429, 127.47626pt x 60.225pt>
 File: ./capitoli/capitolo1/img/alpini.png Graphic file (type png)
 
 <use ./capitoli/capitolo1/img/alpini.png>
@@ -552,7 +555,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 [][]\OT1/cmr/bx/n/10.95 SedAlp[]: Pro-gram-ma
  []
 
-<./capitoli/capitolo1/img/med.JPG, id=389, 128.48pt x 25.09375pt>
+<./capitoli/capitolo1/img/med.JPG, id=431, 128.48pt x 25.09375pt>
 File: ./capitoli/capitolo1/img/med.JPG Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/med.JPG>
@@ -584,7 +587,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 \OT1/cmr/m/n/10.95 mi-ti-ga-zio-ne del-l'in-qui-na-men-to at-mo-sfe-ri-co
  []
 
-<./capitoli/capitolo1/img/park.jpg, id=391, 128.48pt x 51.19125pt>
+<./capitoli/capitolo1/img/park.jpg, id=433, 128.48pt x 51.19125pt>
 File: ./capitoli/capitolo1/img/park.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/park.jpg>
@@ -601,7 +604,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--64
 
  []
 
-<./capitoli/capitolo1/img/interr.jpg, id=393, 128.48pt x 56.21pt>
+<./capitoli/capitolo1/img/interr.jpg, id=435, 128.48pt x 56.21pt>
 File: ./capitoli/capitolo1/img/interr.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/interr.jpg>
@@ -635,7 +638,7 @@ Underfull \hbox (badness 1990) in paragraph at lines 66--67
 \OT1/cmr/m/n/10.95 orien-ta-li, con la pro-du-zio-ni di car-to-gra-fie
  []
 
-<./capitoli/capitolo1/img/resmia.JPG, id=395, 128.48pt x 79.29625pt>
+<./capitoli/capitolo1/img/resmia.JPG, id=437, 128.48pt x 79.29625pt>
 File: ./capitoli/capitolo1/img/resmia.JPG Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/resmia.JPG>
@@ -669,7 +672,7 @@ Underfull \vbox (badness 10000) detected at line 71
 [2 <./capitoli/capitolo1/img/alpini.png>] [3 <./capitoli/capitolo1/img/med.JPG>
  <./capitoli/capitolo1/img/park.jpg> <./capitoli/capitolo1/img/interr.jpg> <./c
 apitoli/capitolo1/img/resmia.JPG>]
-<./capitoli/capitolo1/img/retiresmia.jpg, id=411, 1043.9pt x 722.7pt>
+<./capitoli/capitolo1/img/retiresmia.jpg, id=453, 1043.9pt x 722.7pt>
 File: ./capitoli/capitolo1/img/retiresmia.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/retiresmia.jpg>
@@ -750,7 +753,7 @@ Underfull \vbox (badness 10000) detected at line 156
  []
 
 [6] [7]
-<./capitoli/capitolo1/img/organigramma.png, id=433, 526.96875pt x 395.22656pt>
+<./capitoli/capitolo1/img/organigramma.png, id=475, 526.96875pt x 395.22656pt>
 File: ./capitoli/capitolo1/img/organigramma.png Graphic file (type png)
 
 <use ./capitoli/capitolo1/img/organigramma.png>
@@ -758,7 +761,7 @@ Package pdftex.def Info: ./capitoli/capitolo1/img/organigramma.png used on inpu
 t line 166.
 (pdftex.def)             Requested size: 368.8756pt x 276.6567pt.
 
-<./capitoli/capitolo1/img/organigrammaDip.png, id=435, 845.40843pt x 597.73312p
+<./capitoli/capitolo1/img/organigrammaDip.png, id=477, 845.40843pt x 597.73312p
 t>
 File: ./capitoli/capitolo1/img/organigrammaDip.png Graphic file (type png)
  <use ./capitoli/capitolo1/img/organigrammaDip.png>
@@ -767,14 +770,14 @@ nput line 178.
 (pdftex.def)             Requested size: 338.15738pt x 239.089pt.
  [8 <./capitoli/capitolo1/img/organigramma.png>] [9 <./capitoli/capitolo1/img/o
 rganigrammaDip.png>]
-<./capitoli/capitolo1/img/attivita_programma.png, id=446, 1204.5pt x 823.075pt>
+<./capitoli/capitolo1/img/attivita_programma.png, id=489, 1204.5pt x 823.075pt>
 File: ./capitoli/capitolo1/img/attivita_programma.png Graphic file (type png)
 <use ./capitoli/capitolo1/img/attivita_programma.png>
 Package pdftex.def Info: ./capitoli/capitolo1/img/attivita_programma.png used o
 n input line 204.
 (pdftex.def)             Requested size: 397.48624pt x 271.61559pt.
  [10 <./capitoli/capitolo1/img/attivita_programma.png (PNG copy)>]
-<./capitoli/capitolo1/img/probo.png, id=451, 823.075pt x 301.125pt>
+<./capitoli/capitolo1/img/probo.png, id=494, 823.075pt x 301.125pt>
 File: ./capitoli/capitolo1/img/probo.png Graphic file (type png)
 
 <use ./capitoli/capitolo1/img/probo.png>
@@ -782,7 +785,7 @@ Package pdftex.def Info: ./capitoli/capitolo1/img/probo.png used on input line
 223.
 (pdftex.def)             Requested size: 411.53648pt x 150.56212pt.
  [11 <./capitoli/capitolo1/img/probo.png (PNG copy)>]
-<./capitoli/capitolo1/img/cascata.jpg, id=457, 609.77812pt x 451.6875pt>
+<./capitoli/capitolo1/img/cascata.jpg, id=499, 609.77812pt x 451.6875pt>
 File: ./capitoli/capitolo1/img/cascata.jpg Graphic file (type jpg)
 
 <use ./capitoli/capitolo1/img/cascata.jpg>
@@ -790,48 +793,353 @@ Package pdftex.def Info: ./capitoli/capitolo1/img/cascata.jpg used on input lin
 e 247.
 (pdftex.def)             Requested size: 182.93484pt x 135.5073pt.
  [12 <./capitoli/capitolo1/img/cascata.jpg>] [13] [14] [15]
-<./capitoli/capitolo1/img/pdca.png, id=483, 574.145pt x 413.545pt>
+<./capitoli/capitolo1/img/pdca.png, id=525, 574.145pt x 413.545pt>
 File: ./capitoli/capitolo1/img/pdca.png Graphic file (type png)
 
 <use ./capitoli/capitolo1/img/pdca.png>
 Package pdftex.def Info: ./capitoli/capitolo1/img/pdca.png used on input line 3
 49.
-(pdftex.def)             Requested size: 401.89876pt x 289.4795pt.
+(pdftex.def)             Requested size: 373.18983pt x 268.80106pt.
  [16 <./capitoli/capitolo1/img/pdca.png>]) (./capitoli/capitolo2/capitolo2.tex 
 [17] [18
 
 ]
 Capitolo 2.
-[19] [20]) (./capitoli/capitolo3/capitolo3.tex [21] [22
+<./capitoli/capitolo2/img/raspibo.png, id=539, 200.75pt x 200.75pt>
+File: ./capitoli/capitolo2/img/raspibo.png Graphic file (type png)
 
-]
+<use ./capitoli/capitolo2/img/raspibo.png>
+Package pdftex.def Info: ./capitoli/capitolo2/img/raspibo.png used on input lin
+e 21.
+(pdftex.def)             Requested size: 66.60068pt x 66.60303pt.
+
+<./capitoli/capitolo2/img/fablab.png, id=540, 301.125pt x 137.51375pt>
+File: ./capitoli/capitolo2/img/fablab.png Graphic file (type png)
+
+<use ./capitoli/capitolo2/img/fablab.png>
+Package pdftex.def Info: ./capitoli/capitolo2/img/fablab.png used on input line
+ 27.
+(pdftex.def)             Requested size: 119.8804pt x 54.74643pt.
+ [19 <./capitoli/capitolo2/img/raspibo.png (PNG copy)> <./capitoli/capitolo2/im
+g/fablab.png>]
+<./capitoli/capitolo2/img/ArduinoUNO.jpeg, id=548, 631.35875pt x 401.5pt>
+File: ./capitoli/capitolo2/img/ArduinoUNO.jpeg Graphic file (type jpg)
+
+<use ./capitoli/capitolo2/img/ArduinoUNO.jpeg>
+Package pdftex.def Info: ./capitoli/capitolo2/img/ArduinoUNO.jpeg used on input
+ line 43.
+(pdftex.def)             Requested size: 315.6786pt x 200.7495pt.
+
+Overfull \hbox (49.2759pt too wide) in paragraph at lines 43--44
+ [][] 
+ []
+
+<./capitoli/capitolo2/img/arduinologo.png, id=549, 220.825pt x 150.5625pt>
+File: ./capitoli/capitolo2/img/arduinologo.png Graphic file (type png)
+
+<use ./capitoli/capitolo2/img/arduinologo.png>
+Package pdftex.def Info: ./capitoli/capitolo2/img/arduinologo.png used on input
+ line 49.
+(pdftex.def)             Requested size: 39.9608pt x 27.24481pt.
+ [20 <./capitoli/capitolo2/img/ArduinoUNO.jpeg> <./capitoli/capitolo2/img/ardui
+nologo.png>]
+<./capitoli/capitolo2/img/mqtt.jpg, id=555, 326.07536pt x 162.6075pt>
+File: ./capitoli/capitolo2/img/mqtt.jpg Graphic file (type jpg)
+
+<use ./capitoli/capitolo2/img/mqtt.jpg>
+Package pdftex.def Info: ./capitoli/capitolo2/img/mqtt.jpg used on input line 6
+0.
+(pdftex.def)             Requested size: 326.07455pt x 162.6071pt.
+ [21 <./capitoli/capitolo2/img/mqtt.jpg>] [22] [23]
+<./capitoli/capitolo2/img/pluviometro.png, id=570, 363.3575pt x 548.0475pt>
+File: ./capitoli/capitolo2/img/pluviometro.png Graphic file (type png)
+
+<use ./capitoli/capitolo2/img/pluviometro.png>
+Package pdftex.def Info: ./capitoli/capitolo2/img/pluviometro.png used on input
+ line 153.
+(pdftex.def)             Requested size: 109.00809pt x 164.41551pt.
+ [24 <./capitoli/capitolo2/img/pluviometro.png>]
+<./capitoli/capitolo2/img/bascula.jpg, id=576, 211.54031pt x 188.20313pt>
+File: ./capitoli/capitolo2/img/bascula.jpg Graphic file (type jpg)
+
+<use ./capitoli/capitolo2/img/bascula.jpg>
+Package pdftex.def Info: ./capitoli/capitolo2/img/bascula.jpg used on input lin
+e 184.
+(pdftex.def)             Requested size: 84.61461pt x 75.2799pt.
+ [25]
+<./capitoli/capitolo2/img/ide.png, id=582, 532.99126pt x 477.785pt>
+File: ./capitoli/capitolo2/img/ide.png Graphic file (type png)
+
+<use ./capitoli/capitolo2/img/ide.png>
+Package pdftex.def Info: ./capitoli/capitolo2/img/ide.png used on input line 20
+2.
+(pdftex.def)             Requested size: 213.19272pt x 191.11061pt.
+ [26 <./capitoli/capitolo2/img/bascula.jpg> <./capitoli/capitolo2/img/ide.png>]
+ [27]
+<./capitoli/capitolo2/img/rtc.jpg, id=592, 997.7275pt x 633.36626pt>
+File: ./capitoli/capitolo2/img/rtc.jpg Graphic file (type jpg)
+
+<use ./capitoli/capitolo2/img/rtc.jpg>
+Package pdftex.def Info: ./capitoli/capitolo2/img/rtc.jpg used on input line 25
+0.
+(pdftex.def)             Requested size: 299.32056pt x 190.01134pt.
+ [28]
+<./capitoli/capitolo2/img/qt.png, id=597, 128.48pt x 128.48pt>
+File: ./capitoli/capitolo2/img/qt.png Graphic file (type png)
+
+<use ./capitoli/capitolo2/img/qt.png>
+Package pdftex.def Info: ./capitoli/capitolo2/img/qt.png used on input line 286
+.
+(pdftex.def)             Requested size: 102.78412pt x 102.78412pt.
+ [29 <./capitoli/capitolo2/img/rtc.jpg> <./capitoli/capitolo2/img/qt.png>]
+<./capitoli/capitolo2/img/github.jpeg, id=603, 295.1025pt x 172.645pt>
+File: ./capitoli/capitolo2/img/github.jpeg Graphic file (type jpg)
+
+<use ./capitoli/capitolo2/img/github.jpeg>
+Package pdftex.def Info: ./capitoli/capitolo2/img/github.jpeg used on input lin
+e 302.
+(pdftex.def)             Requested size: 99.89932pt x 58.44298pt.
+
+<./capitoli/capitolo2/img/bitbucket.png, id=604, 420.57124pt x 120.45pt>
+File: ./capitoli/capitolo2/img/bitbucket.png Graphic file (type png)
+
+<use ./capitoli/capitolo2/img/bitbucket.png>
+Package pdftex.def Info: ./capitoli/capitolo2/img/bitbucket.png used on input l
+ine 308.
+(pdftex.def)             Requested size: 99.89932pt x 28.61084pt.
+)
+(./capitoli/capitolo3/capitolo3.tex [30 <./capitoli/capitolo2/img/github.jpeg> 
+<./capitoli/capitolo2/img/bitbucket.png>]
 Capitolo 3.
-[23] [24] [25] [26]) (./capitoli/capitolo4/capitolo4.tex [27] [28
+<./capitoli/capitolo3/img/spirale.jpg, id=611, 417.05812pt x 307.90031pt>
+File: ./capitoli/capitolo3/img/spirale.jpg Graphic file (type jpg)
 
+<use ./capitoli/capitolo3/img/spirale.jpg>
+Package pdftex.def Info: ./capitoli/capitolo3/img/spirale.jpg used on input lin
+e 8.
+(pdftex.def)             Requested size: 222.0pt x 163.8958pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31
+
+ <./capitoli/capitolo3/img/spirale.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]|[]\OT1/cmr/bx/it/10.95 Progettazione
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]|[]\OT1/cmr/bx/it/10.95 Progettazione
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 32
+ []
+
+
+Overfull \hbox (2.66005pt too wide) in paragraph at lines 37--38
+[]|\OT1/cmr/bx/n/10.95 Ore| 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 51
+ []
+
+<./capitoli/capitolo3/img/da.png, id=617, 1149.5447pt x 191.21437pt>
+File: ./capitoli/capitolo3/img/da.png Graphic file (type png)
+
+<use ./capitoli/capitolo3/img/da.png>
+Package pdftex.def Info: ./capitoli/capitolo3/img/da.png used on input line 57.
+
+(pdftex.def)             Requested size: 444.0pt x 73.85263pt.
+
+Underfull \vbox (badness 1297) has occurred while \output is active []
+
+ [32]
+<./capitoli/capitolo3/img/requ.png, id=622, 1120.185pt x 130.98938pt>
+File: ./capitoli/capitolo3/img/requ.png Graphic file (type png)
+
+<use ./capitoli/capitolo3/img/requ.png>
+Package pdftex.def Info: ./capitoli/capitolo3/img/requ.png used on input line 7
+3.
+(pdftex.def)             Requested size: 444.0pt x 51.91911pt.
+
+<./capitoli/capitolo3/img/manuale.jpg, id=623, 222.07968pt x 222.07968pt>
+File: ./capitoli/capitolo3/img/manuale.jpg Graphic file (type jpg)
+
+<use ./capitoli/capitolo3/img/manuale.jpg>
+Package pdftex.def Info: ./capitoli/capitolo3/img/manuale.jpg used on input lin
+e 87.
+(pdftex.def)             Requested size: 111.03957pt x 111.03957pt.
+ [33 <./capitoli/capitolo3/img/da.png> <./capitoli/capitolo3/img/requ.png>] [34
+ <./capitoli/capitolo3/img/manuale.jpg>]
+Underfull \vbox (badness 10000) detected at line 136
+ []
+
+
+Overfull \hbox (17.96375pt too wide) in alignment at lines 140--142
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.06601pt too wide) in paragraph at lines 148--148
+[]|\OT1/cmr/m/n/10.95 mi| 
+ []
+
+
+Overfull \hbox (1.06601pt too wide) in paragraph at lines 148--148
+[]|\OT1/cmr/m/n/10.95 mi| 
+ []
+
+
+Overfull \hbox (1.06601pt too wide) in paragraph at lines 148--148
+[]|\OT1/cmr/m/n/10.95 mi| 
+ []
+
+
+Overfull \hbox (1.06601pt too wide) in paragraph at lines 150--150
+[]|\OT1/cmr/m/n/10.95 mi| 
+ []
+
+
+Overfull \hbox (1.06601pt too wide) in paragraph at lines 150--150
+[]|\OT1/cmr/m/n/10.95 mi| 
+ []
+
+
+Overfull \hbox (1.06601pt too wide) in paragraph at lines 150--151
+[]|\OT1/cmr/m/n/10.95 mi| 
+ []
+
+
+Overfull \hbox (17.96375pt too wide) in alignment at lines 142--158
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 158
+ []
+
+
+! Package array Error:  Illegal pream-token (0.35\textwidth ): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.163 ...e}{ c{0.35\textwidth}  p{0.2\textwidth} }
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (10.25456pt too high) has occurred while \output is active []
+
+
+[35] <./capitoli/capitolo3/img/c.png, id=648, 195.73125pt x 195.73125pt>
+File: ./capitoli/capitolo3/img/c.png Graphic file (type png)
+
+<use ./capitoli/capitolo3/img/c.png>
+Package pdftex.def Info: ./capitoli/capitolo3/img/c.png used on input line 193.
+
+(pdftex.def)             Requested size: 66.59729pt x 66.59851pt.
+ [36 <./capitoli/capitolo3/img/c.png>]
+<./capitoli/capitolo3/img/micro.jpg, id=654, 803.0pt x 602.25pt>
+File: ./capitoli/capitolo3/img/micro.jpg Graphic file (type jpg)
+
+<use ./capitoli/capitolo3/img/micro.jpg>
+Package pdftex.def Info: ./capitoli/capitolo3/img/micro.jpg used on input line 
+218.
+(pdftex.def)             Requested size: 111.0pt x 83.24843pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37 <./capitoli/capitolo3/img/micro.jpg>]
+Underfull \hbox (badness 3547) in paragraph at lines 295--296
+[]|\OT1/cmr/m/n/10.95 Organizzare la ge-stio-ne del-la me-mo-ria se-con-do un
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 316
+ []
+
+[38] [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+<./capitoli/capitolo3/img/bread.jpg, id=676, 1003.75pt x 729.72626pt>
+File: ./capitoli/capitolo3/img/bread.jpg Graphic file (type jpg)
+
+<use ./capitoli/capitolo3/img/bread.jpg>
+Package pdftex.def Info: ./capitoli/capitolo3/img/bread.jpg used on input line 
+373.
+(pdftex.def)             Requested size: 133.20135pt x 96.83858pt.
+ [41]
+<./capitoli/capitolo3/img/schema.png, id=682, 622.325pt x 516.329pt>
+File: ./capitoli/capitolo3/img/schema.png Graphic file (type png)
+
+<use ./capitoli/capitolo3/img/schema.png>
+Package pdftex.def Info: ./capitoli/capitolo3/img/schema.png used on input line
+ 381.
+(pdftex.def)             Requested size: 310.79865pt x 257.86447pt.
+ [42 <./capitoli/capitolo3/img/bread.jpg> <./capitoli/capitolo3/img/schema.png>
 ]
-Capitolo 4.
-[29]) [30]
-Capitolo 5.
-[31
+<./capitoli/capitolo3/img/foto.png, id=689, 320.19624pt x 510.90875pt>
+File: ./capitoli/capitolo3/img/foto.png Graphic file (type png)
 
-] [32] [33]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
- [34]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
+<use ./capitoli/capitolo3/img/foto.png>
+Package pdftex.def Info: ./capitoli/capitolo3/img/foto.png used on input line 3
+90.
+(pdftex.def)             Requested size: 117.65973pt x 187.73917pt.
+
+<./capitoli/capitolo3/img/circuitoe.png, id=690, 227.85126pt x 510.90875pt>
+File: ./capitoli/capitolo3/img/circuitoe.png Graphic file (type png)
+
+<use ./capitoli/capitolo3/img/circuitoe.png>
+Package pdftex.def Info: ./capitoli/capitolo3/img/circuitoe.png used on input l
+ine 396.
+(pdftex.def)             Requested size: 84.36108pt x 189.1658pt.
+
+Overfull \hbox (30.88608pt too wide) in paragraph at lines 388--399
+[]$[]$  $[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43 <./capitoli/capitolo3/img/foto.png> <./capitoli/capitolo3/img/circuitoe.pn
+g>]
+[44]
+Underfull \vbox (badness 1242) has occurred while \output is active []
+
+ [45])
+(./capitoli/capitolo4/capitolo4.tex [46]
+Capitolo 4.
+[47
+
+]) [48]
+Capitolo 5.
+[49
+
+] [50] [51] [52]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 312.
+ [53]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 312.
  (./Relazione Finale.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 292.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 312.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 312.
 Package rerunfilecheck Info: File `"Relazione Finale".out' has not changed.
-(rerunfilecheck)             Checksum: DEB26FB4CCBE3BBD52A293269CFEF626;3907.
+(rerunfilecheck)             Checksum: DC1AE42A1EBACC219A9168E29552917C;3906.
  ) 
 Here is how much of TeX's memory you used:
- 9680 strings out of 493304
- 140234 string characters out of 6139872
- 254861 words of memory out of 5000000
- 12809 multiletter control sequences out of 15000+600000
- 13225 words of font info for 46 fonts, out of 8000000 for 9000
+ 9857 strings out of 493304
+ 144696 string characters out of 6139872
+ 259406 words of memory out of 5000000
+ 12912 multiletter control sequences out of 15000+600000
+ 15293 words of font info for 53 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,12n,47p,970b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,12n,47p,1016b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
@@ -839,17 +1147,20 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Relazione Finale.pdf" (48 pages, 741050 bytes).
+e1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "Relazione Finale.pdf" (65 pages, 2729429 bytes).
 PDF statistics:
- 672 PDF objects out of 1000 (max. 8388607)
- 582 compressed objects within 6 object streams
- 155 named destinations out of 1000 (max. 500000)
- 495 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 861 PDF objects out of 1000 (max. 8388607)
+ 717 compressed objects within 8 object streams
+ 200 named destinations out of 1000 (max. 500000)
+ 605 words of extra memory for PDF output out of 10000 (max. 10000000)
 
